@@ -13,4 +13,4 @@ Created it because changing every SladeAbility store takes a lot of time. You ne
 store = "store.vexpvp.club" # This is an example
 domain = "vexpvp.club" # This is an example
 ```
-Only python3 required. No imports or sketchy stuff.
+Only python3 required. No need to download any modules.
