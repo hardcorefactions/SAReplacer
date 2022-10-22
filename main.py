@@ -5,6 +5,7 @@ store = "store.vexpvp.club"
 domain = "vexpvp.club"
 
 for file in os.listdir('Abilities'):
+	file = 'Abilities/'+file
 	with open(file, 'r') as f:
 		content = []
 		f = f.readlines()
