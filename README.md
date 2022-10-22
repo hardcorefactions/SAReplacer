@@ -8,7 +8,7 @@ Basic SladeAbility (2.0.5) store replacer for all abilities
 
 ## Usage
 
-Created it because changing every SladeAbility store takes a lot of time. Need to set up the follow variables:
+Created it because changing every SladeAbility store takes a lot of time. You need to set up the following variables and put the script on the SladeAbility plugin folder:
 ```python
 store = "store.vexpvp.club" # This is an example
 domain = "vexpvp.club" # This is an example
